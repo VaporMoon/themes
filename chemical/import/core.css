@@ -431,7 +431,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-	background: rgba(0,0,0,.7)!important;
+	background: transparent!important;
 	border-radius: 0!important;
 	border: none!important
 }
